@@ -1,4 +1,3 @@
 hello
 word
-#offline
-online
+offline
